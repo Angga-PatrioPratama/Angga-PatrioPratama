@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer" align="center" /> </h3>
 </p>
 
-- 👀 Stay curios and keep learning 🚀
+ 👀 Stay curios and keep learning 🚀
 
 <!--  💬 Ask me about ** Backend Web Development, Node js, MongoDB** -->
 
