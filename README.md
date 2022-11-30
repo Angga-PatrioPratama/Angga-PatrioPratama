@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--  💬 Ask me about ** Backend Web Development, Node js, MongoDB** -->
 
- 👨‍💻 Check out my personal portfolio : **<a href="angga-portfolio.vercel.app" target="_blank">Portfolio</a>** 
+ 👨‍💻 Check out my personal portfolio : **<a href="https://angga-portfolio.vercel.app/" target="_blank">Portfolio</a>** 
 
  😄 Pronouns: He/His
 
