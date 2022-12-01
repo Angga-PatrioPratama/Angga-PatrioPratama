@@ -13,12 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <h1 align="center">👋 Hi, I'm <a href="" target="_blank"> Angga </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFFines=Front+End+Developer" align="center" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Front+End+Developer" align="center" /> </h3>
 </p>
 
  👀 Stay curios and keep learning 🚀
-
-<!--  💬 Ask me about ** Backend Web Development, Node js, MongoDB** -->
 
  👨‍💻 Check out my personal portfolio : **<a href="https://angga-portfolio.vercel.app/" target="_blank">Portfolio</a>** 
 
