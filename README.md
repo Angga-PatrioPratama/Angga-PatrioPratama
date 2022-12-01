@@ -42,15 +42,14 @@ You can click the Preview link to take a look at your changes.
  <img alt="Wordpress" src ="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white/">
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
- <!-- <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="MySQL" src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white/">
  <img alt="C" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white/">
  <img alt="Java" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white/">
  <img alt="VisualStudioCode" src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/">
- <img alt="VisualStudio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white/"><br/>
+ <img alt="VisualStudio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white/">
+ </div><br/>
 
- 
  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Angga-PatrioPratama&include_all_commits=true&count_private=true&show_icons=true&theme=dark&locale=en" alt="Angga-PatrioPratama-github-stats" /></td>
