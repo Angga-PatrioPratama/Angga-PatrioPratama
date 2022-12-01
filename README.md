@@ -50,9 +50,11 @@ You can click the Preview link to take a look at your changes.
  <img alt="VisualStudioCode" src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white/">
  <img alt="VisualStudio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white/">
 
+ <div>
  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Angga-PatrioPratama&include_all_commits=true&count_private=true&show_icons=true&theme=dark&locale=en" alt="Angga-PatrioPratama-github-stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angga-PatrioPratama&show_icons=true&theme=dark&locale=en&layout=compact" alt="Angga-PatrioPratama-top-language" /></td>
   </tr>
 </table>
+</div>
